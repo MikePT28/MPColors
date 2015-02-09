@@ -1,5 +1,17 @@
-# MPColors
-UIColors category implementation for extended functionality.
+#About
+Implementation of methods to extend the funtinality and use of the UIColor class.
+
+The list of methods will continue to evolve as I keep finding new needs for color creation or people suggest new methods.
+
+#Intallation
+
+Just copy the "UIColor+MPColors.h" and "UIColor+MPColors.m" to your project folder.
+
+#Usage
+
+Add the "UIColor+MPColors.h" header to the classes you desire.
+
+The documentation for every method is very well explained in the files.
 
 #License
 
