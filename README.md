@@ -3,27 +3,27 @@ Implementation of methods to extend the funtinality and use of the UIColor class
 
 The list of methods will continue to evolve as I keep finding new needs for color creation or people suggest new methods.
 
-Features
+###Features
 
--Create color from a HexRGB Value (Ex: `0xFFFFFF`) & HexRGBA Value .
+- Create color from a HexRGB Value (Ex: `0xFFFFFF`) & HexRGBA Value .
 
--Create color from a HexRGB String with either # or 0x or neither. (Ex: `@"FFFFFF"` or `@"#FFFFFF"` or `@"0xFFFFFF"`) & HexRGBA String (Ex: `@"FFFFFFFF"` or `@"#FFFFFFFF"` or `@"0xFFFFFFFF"`).
+- Create color from a HexRGB String with either # or 0x or neither. (Ex: `@"FFFFFF"` or `@"#FFFFFF"` or `@"0xFFFFFF"`) & HexRGBA String (Ex: `@"FFFFFFFF"` or `@"#FFFFFFFF"` or `@"0xFFFFFFFF"`).
 
--Create color from with Base255 int values and also Base100 alpha value.
+- Create color from with Base255 int values and also Base100 alpha value.
 
--Create color from Base255 RGB String (Ex: `@"255,255,255"`) and also with alpha (Ex: `@"255,255,255,1.0"`).
+- Create color from Base255 RGB String (Ex: `@"255,255,255"`) and also with alpha (Ex: `@"255,255,255,1.0"`).
 
-# Installation
+### Installation
 
 Just copy the "UIColor+MPColors.h" and "UIColor+MPColors.m" to your project folder.
 
-# Usage
+### Usage
 
 Add the "UIColor+MPColors.h" header to the classes you desire.
 
 The documentation for every method is very well explained in the files.
 
-# License
+### License
 
 _UIColor+MPColors_ uses the MIT License:
 
