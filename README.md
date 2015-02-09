@@ -1,19 +1,19 @@
-#About
+#UIColor+MPColors
 Implementation of methods to extend the funtinality and use of the UIColor class.
 
 The list of methods will continue to evolve as I keep finding new needs for color creation or people suggest new methods.
 
-#Intallation
+# Installation
 
 Just copy the "UIColor+MPColors.h" and "UIColor+MPColors.m" to your project folder.
 
-#Usage
+# Usage
 
 Add the "UIColor+MPColors.h" header to the classes you desire.
 
 The documentation for every method is very well explained in the files.
 
-#License
+# License
 
 UIColor+MPColors uses the MIT License:
 
