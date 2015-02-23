@@ -77,7 +77,6 @@ static const uInt kMP_HexShiftRGBA_A = 0;
     
     return [UIColor colorWithRed:red green:green blue:blue alpha:alpha];
     
-    return nil;
 }
 
 #pragma mark - Base255 Support Methods
